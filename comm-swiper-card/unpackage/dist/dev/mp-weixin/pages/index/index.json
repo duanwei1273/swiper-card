@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "commp-swiper": "/components/comp-swiper"
+  }
+}
