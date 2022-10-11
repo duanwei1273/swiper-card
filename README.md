@@ -1,10 +1,11 @@
 # swiper-card
- 卡片类型的广告展示组件，适用于移动端（Card type AD display component for mobile）
+ 卡片类型的广告展示组件，向左滑动切换展示图，适用于移动端（Card type AD display component for mobile）
+ 
 ### 地址
  gitHub地址https://github.com/duanwei1273/swiper-card.git
  npm地址https://www.npmjs.com/package/swiper-card
 ### 效果
-![展示图片](/comm-swiper-card/components/static/show.png "Magic Gardens")
+![展示图片](./show.png "Magic Gardens")
 ## 使用
 ### npm加载（推荐）
 ##### 安装
