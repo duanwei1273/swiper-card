@@ -1,7 +1,8 @@
 # swiper-card
  卡片类型的广告展示组件，适用于移动端（Card type AD display component for mobile）
- gitHub地址`https://github.com/duanwei1273/swiper-card.git`
- npm地址`https://www.npmjs.com/package/swiper-card`
+### 地址
+ gitHub地址https://github.com/duanwei1273/swiper-card.git
+ npm地址https://www.npmjs.com/package/swiper-card
 ### npm加载（推荐）
 ##### 安装
 ```
