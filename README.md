@@ -1,5 +1,5 @@
 # swiper-card
- 卡片类型的广告展示组件，向左滑动切换展示图，适用于移动端（Card type AD display component for mobile）
+ 基于uniapp的卡片类型的广告展示组件，向左滑动切换展示图，适用于移动端（Card type AD display component for mobile）
  
 ### 地址
  gitHub地址https://github.com/duanwei1273/swiper-card.git
